@@ -12,9 +12,6 @@ A simple Python tool to scan local networks and find all connected devices' IP a
 
 ## Usage
 Using:
--```bash
-python scanner.py -t <target ip>`
-
-Install scapy:
 ```bash
-pip install scapy
+python scanner.py -t <target ip>
+
